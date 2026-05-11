@@ -1,0 +1,7 @@
+project_id = "rppzjwmwmsltrgwxqopv"
+
+[functions.triage-chat]
+verify_jwt = false
+
+[functions.asha-protocol]
+verify_jwt = false
